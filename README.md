@@ -2,14 +2,14 @@
 
 Manage your mess meals, bazar expenses, extra costs, and member balances with this Google Sheets template.
 
-#📋 Get Your Own Copy
+# 📋 Get Your Own Copy
 
 "📥 Create Your Own Google Sheets Copy" 
-<p align="center">
+<div align="center">
   <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy">
-    <img src="https://img.shields.io/badge/CREATE_YOUR_OWN_COPY-34A853?style=for-the-badge" alt="Create Your Own Copy">
+    <strong>🟢 CREATE YOUR OWN COPY</strong>
   </a>
-</p>
+</div>
 
 Instructions:
 
