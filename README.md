@@ -5,6 +5,9 @@ A ready-to-use spreadsheet for managing shared mess expenses and monthly meal ac
 **Platform:** Google Sheets  
 **Format:** Spreadsheet Template  
 **Purpose:** Meal tracking, bazar expenses, extra costs, meal rate calculation, and member balances.
+## 📸 Preview
+
+![Mess Meal & Bazar Tracker](images/mess-tracker-preview.png)
 
 ### 📥 Get Your Own Copy
 [![Excel Sheet Template](https://img.shields.io/badge/EXCEL_SHEET_TEMPLATE-CREATE_YOUR_COPY-217346?style=for-the-badge&logo=microsoftexcel&logoColor=green)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
