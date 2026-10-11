@@ -7,7 +7,8 @@
 
 
 ## 🚀 Get Started
-[![Create Your Own Copy](https://img.shields.io/badge/Create-Your%20Own%20Copy-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
+<p align="center">
+""Excel Sheet Template - Create Your Own Copy" (https://img.shields.io/badge/Excel_Sheet_Template-Create_Your_Own_Copy-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)" (https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)m
 
 <p align="center">
   <em>Click the button above to create your own editable copy.</em>
