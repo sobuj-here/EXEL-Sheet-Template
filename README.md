@@ -1,22 +1,18 @@
-🍽️ Mess Meal & Bazar Tracker
+## 🍽️ Mess Meal & Bazar Tracker
 
 <p align="center">
   <strong>A Smarter Way to Manage Your Mess Accounts</strong>
   <br>
   Track meals, bazar expenses, extra costs, and member balances in one place.
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Platform-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Template-Free-2563EB?style=flat-square" alt="Free Template">
-  <img src="https://img.shields.io/badge/Setup-Easy-orange?style=flat-square" alt="Easy Setup">
-</p>---
+
 
 ## 🚀 Get Started
 
-<p align="center">
+<div align="center">
   <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy">
-    <img src="https://img.shields.io/badge/CREATE_YOUR_OWN_COPY-16A34A?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Create Your Own Copy">
+    <strong>🟢 CREATE YOUR OWN COPY</strong>
   </a>
-</p>
+</div>
 
 <p align="center">
   <em>Click the button above to create your own editable copy.</em>
