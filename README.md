@@ -21,4 +21,4 @@ Create your own copy, add your mess members, and start tracking your accounts.
 - Automatic meal rate calculation
 - Member deposit and balance tracking
 
-**How to use:** Click the red button → Sign in to Google → Select **Make a copy** → Enter your own data.
+**How to use:** Click the blue button → Sign in to Google → Select **Make a copy** → Enter your own data.
