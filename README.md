@@ -7,12 +7,7 @@
 
 
 ## 🚀 Get Started
-
-<p align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy">
-    <strong>🟢 📋 CREATE YOUR OWN COPY →</strong>
-  </a>
-</p>
+[![Create Your Own Copy](https://img.shields.io/badge/Create-Your%20Own%20Copy-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
 
 <p align="center">
   <em>Click the button above to create your own editable copy.</em>
