@@ -10,7 +10,7 @@ A ready-to-use spreadsheet for managing shared mess expenses and monthly meal ac
 ![Mess Meal & Bazar Tracker](images/mess-tracker-preview.png)
 
 ### 📥 Get Your Own Copy
-[![Excel Sheet Template](https://img.shields.io/badge/EXCEL_SHEET_TEMPLATE-CREATE_YOUR_COPY-217346?style=for-the-badge&logo=microsoftexcel&logoColor=red)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
+[![Excel Sheet Template](https://img.shields.io/badge/EXCEL_SHEET_TEMPLATE-CREATE_YOUR_COPY-217346?style=for-the-badge&logo=microsoftexcel&logoColor=blue)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
 
 Create your own copy, add your mess members, and start tracking your accounts.
 
