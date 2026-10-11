@@ -8,11 +8,11 @@
 
 ## 🚀 Get Started
 
-<div align="center">
+<p align="center">
   <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy">
-    <strong>🟢 CREATE YOUR OWN COPY</strong>
+    <img src="https://img.shields.io/static/v1?label=GOOGLE%20SHEETS&message=CREATE%20YOUR%20OWN%20COPY&color=188038&style=for-the-badge&logo=googlesheets&logoColor=white" alt="Create Your Own Copy">
   </a>
-</div>
+</p>
 
 <p align="center">
   <em>Click the button above to create your own editable copy.</em>
