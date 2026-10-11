@@ -1,40 +1,22 @@
-## 🍽️ Mess Meal & Bazar Tracker
+## 📊 Mess Management Spreadsheet Template
 
-<p align="center">
-  <strong>A Smarter Way to Manage Your Mess Accounts</strong>
-  <br>
-  Track meals, bazar expenses, extra costs, and member balances in one place.
+A ready-to-use spreadsheet for managing shared mess expenses and monthly meal accounts.
 
+**Platform:** Google Sheets  
+**Format:** Spreadsheet Template  
+**Purpose:** Meal tracking, bazar expenses, extra costs, meal rate calculation, and member balances.
 
-## 🚀 Get Started
-<p align="center">
-""Excel Sheet Template - Create Your Own Copy" (https://img.shields.io/badge/Excel_Sheet_Template-Create_Your_Own_Copy-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)" (https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)m
+### 📥 Get Your Own Copy
 
-<p align="center">
-  <em>Click the button above to create your own editable copy.</em>
-</p>
-  Create your own copy and start managing your mess accounts.
-</p>✨ Features
+[![Google Sheets Template](https://img.shields.io/badge/Google%20Sheets-Mess%20Account%20Template-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy)
 
-- 🍚 Meal Tracking — Record each member's daily meals.
-- 🛒 Bazar Management — Track shopping expenses.
-- 💰 Extra Costs — Record additional mess expenses.
-- 🧮 Meal Rate Calculation — Calculate the cost per meal.
-- 📊 Member Balance — Track deposits and individual balances.
+Create your own copy, add your mess members, and start tracking your accounts.
 
-📖 How to Use
+**Features**
+- Daily meal entry
+- Bazar expense tracking
+- Extra cost management
+- Automatic meal rate calculation
+- Member deposit and balance tracking
 
-1. Click Create Your Own Copy above.
-2. Sign in to your Google account if required.
-3. Select Make a copy.
-4. Add your own members and expenses.
-
-🔒 Privacy
-
-Each user should maintain their own copy of the spreadsheet. Do not enter personal financial information into a shared public template.
-
----
-
-<p align="center">
-  <sub>Built to make mess accounting simpler and more organized.</sub>
-</p>
+**How to use:** Click the green button → Sign in to Google → Select **Make a copy** → Enter your own data.
