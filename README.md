@@ -10,13 +10,17 @@
   <img src="https://img.shields.io/badge/Setup-Easy-orange?style=flat-square" alt="Easy Setup">
 </p>---
 
-🚀 Get Started
+## 🚀 Get Started
 
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/1QKdssneenE-oyRozznBiXE9Qmzwh-VFSW44D2-Efb3c/copy">
-    <img src="https://img.shields.io/badge/📋_CREATE_YOUR_OWN_COPY-16A34A?style=for-the-badge" alt="Create Your Own Copy">
+    <img src="https://img.shields.io/badge/CREATE_YOUR_OWN_COPY-16A34A?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Create Your Own Copy">
   </a>
-</p><p align="center">
+</p>
+
+<p align="center">
+  <em>Click the button above to create your own editable copy.</em>
+</p>
   Create your own copy and start managing your mess accounts.
 </p>✨ Features
 
